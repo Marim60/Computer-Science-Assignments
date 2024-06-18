@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72a186e0-13b2-4aea-b508-e299d72501a8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LZW/src/LZW/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HYJAsjyEnxNZCtIOIQmt17MzMU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Mariam FCAI/1- Third Year/6-Data Compression/Labs/Huffman",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.scopes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Mariam FCAI\1- Third Year\6-Data Compression\Labs\LZW" />
+      <recent name="D:\Mariam FCAI\1- Third Year\6-Data Compression\Labs\LZW\LZW" />
+      <recent name="D:\Mariam FCAI\1- Third Year\6-Data Compression\Labs\LZW\LZW\src\LZW" />
+      <recent name="D:\Mariam FCAI\1- Third Year\6-Data Compression\Labs\LZW\LZW\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72a186e0-13b2-4aea-b508-e299d72501a8" name="Changes" comment="" />
+      <created>1668455945017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668455945017</updated>
+      <workItem from="1668455946352" duration="2716000" />
+      <workItem from="1668512342530" duration="7205000" />
+      <workItem from="1668624579358" duration="3106000" />
+      <workItem from="1668699763118" duration="525000" />
+      <workItem from="1668702280921" duration="1915000" />
+      <workItem from="1668714637384" duration="215000" />
+      <workItem from="1669085867356" duration="231000" />
+      <workItem from="1669373746182" duration="36000" />
+      <workItem from="1669409696742" duration="485000" />
+      <workItem from="1669634641367" duration="1492000" />
+      <workItem from="1669746144466" duration="34000" />
+      <workItem from="1670408470114" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
