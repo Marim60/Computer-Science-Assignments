@@ -1,0 +1,20 @@
+Index     Character
+97           a
+98           b
+100           d
+257           bd
+259           bdb
+100           d
+256           ab
+100           d
+99           c
+264           cc
+265           ccc
+264           cc
+257           bd
+100           d
+269           dd
+269           dd
+
+ original Size =  224
+ Compressed Size = 128
